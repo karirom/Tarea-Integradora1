@@ -1,0 +1,18 @@
+#Visual Studio Code
+#MySQL Workbench 8.0 CE
+#Python 3.10 64 bits
+
+email 
+sre_constant
+colorama
+Flask
+render_template
+request, redirect
+flash
+url_for
+session
+flask_login
+LoginManager
+login_user
+logout_user
+login_required
